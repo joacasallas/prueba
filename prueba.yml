@@ -1,0 +1,26 @@
+type: code
+user-name: joacasallas
+stage: immersion
+complexity: 1.00
+others:
+  in: 39
+  out: 122
+  totals: 161
+score:
+  initial: 0.00
+  final: 1.00
+  progress: 1.00
+global-rank:
+  initial: 5049
+  final: 50649
+  progress: 0
+national-rank:
+  initial: 1881
+  final: 1881
+  progress: 0
+total-time: 8.5
+effort: 8.5
+productivity: 0.00
+date: '2022-08-10 17:34:00Z'
+date: git-log
+path: joacasallas.f90
